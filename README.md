@@ -39,7 +39,7 @@
 
 
 ## 文件说明
-### 当前目录：“HeartBleed漏洞复现”
+### 当前目录：“Work”
 + HeartBleed项目报告.pdf： HeartBleed小组项目报告
 + HeartBleed展示.pptx： HeartBleed小组项目展示PPT
 + 成员列表.xlsx： 小组成员姓名学号列表
